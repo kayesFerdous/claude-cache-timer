@@ -1,0 +1,11 @@
+{
+  "name": "claude-cache-timer",
+  "owner": { "name": "kayesFerdous" },
+  "plugins": [
+    {
+      "name": "cache",
+      "source": "./",
+      "description": "Shows under the input box how long this conversation's prompt cache has left."
+    }
+  ]
+}
